@@ -1,0 +1,6 @@
+Created by Lukas Hennicks 2018.
+
+Run the makefile by typing make and enter password.
+To run looper: loop <command to loop>
+
+If any errors occur, put the file loop into your equivalence to /usr/local/bin.
